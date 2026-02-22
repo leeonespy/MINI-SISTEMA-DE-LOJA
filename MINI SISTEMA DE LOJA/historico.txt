@@ -1,0 +1,17 @@
+ Nome do cliente: Leonel Dos Anjos 
+ O produto comprado e Leite Condeçado.
+ O preco por unidade e 1000.0Kzs.
+ A quantidade que o cliente levou 88
+ O total a pagar e de 88000.0Kzs
+ O total a pagar com desconto feito e 87999.95Kzs
+ Data: 22/10/25-16:48:08
+_________________________________________________________________
+  
+ Nome do cliente: Carlos Almeida O produto comprado e Sumo Lulu.
+ O preco por unidade e 150.0Kzs.
+ A quantidade que o cliente levou 900
+ O total a pagar e de 135000.0Kzs
+ O total a pagar com desconto feito e 134999.85Kzs
+ Data: 22/10/25-17:08:31
+_________________________________________________________________
+  
